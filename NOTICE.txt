@@ -2,6 +2,7 @@ ALTHA SOURCE LICENSE (ASL) v2.0 - PRIMARY SERVICE DESIGNATION
 
 Project: [Insert Project Name]
 Licensor: [Insert Licensor Name or Entity]
+Contribuitors: [Insert contribuitors or leave blank]
 
 Under the terms of the Altha Source License v2.0, the "Primary Service" 
 for this Work is specifically designated as the commercial provision, 
