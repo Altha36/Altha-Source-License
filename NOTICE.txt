@@ -1,0 +1,23 @@
+ALTHA SOURCE LICENSE (ASL) v2.0 - PRIMARY SERVICE DESIGNATION
+
+Project: [Insert Project Name]
+Licensor: [Insert Licensor Name or Entity]
+
+Under the terms of the Altha Source License v2.0, the "Primary Service" 
+for this Work is specifically designated as the commercial provision, 
+sale, distribution, or operation of:
+
+1. [Insert specific restricted niche, e.g., Managed game server hosting]
+2. [Insert second specific restriction, e.g., Commercial operating system distributions based on this Work]
+3. [Insert third specific restriction or leave blank, e.g., Any commercial cloud platform that directly replicates the Licensor's official product]
+
+Any commercial use that falls WITHIN this designated scope is strictly prohibited 
+under Section 4.2 of the ASL v2.0, unless you have obtained a separate, 
+explicit Commercial License from the Licensor.
+
+Any commercial use that falls OUTSIDE of this designated scope (including but 
+not limited to: deploying the Work for internal business tools, utilizing the Work 
+in non-competing commercial products, or educational research) is fully 
+permitted under the terms of the ASL v2.0.
+
+For commercial licensing inquiries, contact: [Insert Contact Email or URL]
